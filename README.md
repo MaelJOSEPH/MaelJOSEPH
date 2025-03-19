@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👨‍💻 Maël JOSEPH - Développeur Junior
 
-<!--
-**MaelJOSEPH/MaelJOSEPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionné avec une large palette de compétences techniques. J'ai un BTS SNIR (Systèmes Numériques, option Informatique et Réseaux) et une Licence 3 Professionnelle en Métiers de l'Informatique. Mon objectif est de créer des solutions logicielles tout en continuant à apprendre et progresser. Voici un aperçu de mes compétences et de mon parcours :
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Compétences
+
+### Backend Development
+- **Langages** : C++, C#, Java, Python, TypeScript
+- **Frameworks** : .NET, NestJS
+- **Technologies** : REST APIs
+- **Bases de données** : SQL (MySQL, PostgreSQL, SQLite)
+
+### Frontend Development
+- **Langages** : HTML5, CSS3, JavaScript
+- **Frameworks/Librairies** : Flutter (développement multiplateforme)
+
+### DevOps et Infrastructure
+- **Systèmes d'exploitation** : Linux, Windows
+- **Gestion de serveurs** : Installation et configuration de serveurs Linux/Windows
+- **Outils** : Docker
+
+### Réseaux et Systèmes
+- **Compétences** : Réseaux (TCP/IP, DNS, HTTP), gestion de la sécurité
+- **Outils** : Wireshark, paquet `traceroute`
+
+---
+
+## 🌱 Mon parcours
+
+Après avoir obtenu mon **BTS SNIR**, j'ai poursuivi mes études avec une **Licence 3 Professionnelle** en **Métiers de l'Informatique**, ce qui m'a permis de développer une solide compréhension des systèmes et des applications informatiques. Mes compétences couvrent une variété de domaines, du développement backend au développement frontend , en passant par la gestion des serveurs et des réseaux.
+
+---
+
+## 🏅 CodeWars  <img src="https://www.codewars.com/users/MaelJOSEPH/badges/large" alt="CodeWars Badge" align="right" />
+
+Je suis également actif sur **[CodeWars](https://www.codewars.com/users/MaelJOSEPH)**, où je pratique régulièrement pour améliorer mes compétences en algorithmie et résolution de problèmes.
+
+---
+
+## 📬 Me contacter
+
+- LinkedIn : [Maël JOSEPH](https://www.linkedin.com/in/ma%C3%ABl-joseph-151785238/)
+
+---
+
+N’hésite pas à explorer mes projets sur GitHub et à me suivre dans mon parcours. J’aime collaborer et échanger avec d’autres passionnés du code !
