@@ -7,8 +7,8 @@ Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionn
 ## 📚 Compétences
 
 ### Backend Development
-- **Langages** : C++, C#, Java, Python, TypeScript
-- **Frameworks** : .NET, NestJS
+- **Langages** : C++, C#, PHP, Java, Python, TypeScript
+- **Frameworks** : .NET, NestJS ,Laravel
 - **Technologies** : REST APIs
 - **Bases de données** : SQL (MySQL, PostgreSQL, SQLite)
 
@@ -22,8 +22,8 @@ Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionn
 - **Outils** : Docker
 
 ### Réseaux et Systèmes
-- **Compétences** : Réseaux (TCP/IP, DNS, HTTP), gestion de la sécurité
-- **Outils** : Wireshark, paquet `traceroute`
+- **Compétences** : Réseaux (TCP/IP, DNS, HTTP),
+- **Outils** : Wireshark, paquetracer
 
 ---
 
