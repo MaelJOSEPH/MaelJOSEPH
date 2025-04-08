@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionn
 
 ## 🌱 Mon parcours
 
-Après avoir obtenu mon **BTS SNIR**, j'ai poursuivi mes études avec une **Licence 3 Professionnelle** en **Métiers de l'Informatique**, ce qui m'a permis de développer une solide compréhension des systèmes et des applications informatiques. Mes compétences couvrent une variété de domaines, du développement backend au développement frontend , en passant par la gestion des serveurs et des réseaux.
+Après avoir obtenu mon **BTS SNIR**, j'ai poursuivi mes études avec une **Licence 3 Professionnelle** en **Métiers de l'Informatique**, ce qui m'a permis de développer une solide compréhension des systèmes et des applications informatiques. Mes compétences couvrent une variété de domaines, du développement backend au développement frontend , en passant par la gestion des serveurs , des bases de données et des réseaux.
 
 ---
 
