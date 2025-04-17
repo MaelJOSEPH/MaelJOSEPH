@@ -1,6 +1,8 @@
 # 👨‍💻 Maël JOSEPH - Développeur Junior
 
-Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionné avec une large palette de compétences techniques. J'ai un BTS SNIR (Systèmes Numériques, option Informatique et Réseaux) et une Licence 3 Professionnelle en Métiers de l'Informatique. Mon objectif est de créer des solutions logicielles tout en continuant à apprendre et progresser. Voici un aperçu de mes compétences et de mon parcours :
+Bienvenue sur mon profil GitHub ! Je suis Maël JOSEPH, un développeur passionné avec une large palette de compétences techniques. J'ai un BTS SNIR (Systèmes Numériques, option Informatique et Réseaux) et une Licence 3 Professionnelle en Métiers de l'Informatique. Mon objectif est de créer des solutions logicielles tout en continuant à apprendre et progresser.
+Actuellement, je développe un projet en Python qui consiste à récupérer les offres d'emploi des sites de carrières de différentes entreprises d'une ville donnée.
+Voici un aperçu de mes compétences et de mon parcours :
 
 ---
 
